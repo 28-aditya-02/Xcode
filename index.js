@@ -1,3 +1,4 @@
+// to display on webpage
 let name = `Aditya Singh`;
 let age = 18;
 let mood = `not intrested`;
